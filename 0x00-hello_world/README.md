@@ -1,1 +1,1 @@
-Hello world project
+Hello World project
