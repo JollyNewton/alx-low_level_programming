@@ -6,7 +6,7 @@
 int main(void)
 {
 	int n, m;
-	
+
 	for (n = 49; n <= 56; n++)
 	{
 		for (n = 49; m <= 57; m++)
