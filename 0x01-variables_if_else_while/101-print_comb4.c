@@ -2,6 +2,8 @@
 /**
  * main -Prints all possible different combinations of three digits
  *
+ * Printing only the smallest combination of three digits
+ * Numbers are printed in ascending order, with three digits
  * Returns:Always 0 (Success)
  */
 int main(void)
